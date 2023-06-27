@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
+[Download CV here]((http://ChaoyingPei.github.io/files/CV.pdf))
 {% include base_path %}
 
 Education
