@@ -14,4 +14,3 @@ Within the realm of Aeronautics and Astronautics Engineering, my research intere
 As a Ph.D. candidate at Purdue University, I am fortunate to work with esteemed faculty and collaborate with fellow researchers. The supportive academic environment here has provided me with valuable opportunities to grow and expand my knowledge. I am excited about the possibilities that lie ahead and look forward to making significant contributions to my research field.
 
 Please feel free to explore my website to learn more about my work, publications, and cv. If you have any questions or would like to connect, I would be delighted to hear from you. Thank you for visiting!
-------
