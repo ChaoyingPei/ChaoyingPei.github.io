@@ -11,30 +11,17 @@ redirect_from:
 
 Education
 ======
-* B.S. in Beijing, Beihang University, 2011~2015
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in School of Instrumentation and Optoelectronic Engineering, Beihang University, 2011~2015
+* M.S. in School of Instrumentation and Optoelectronic Engineering, Beihang University, 2015~2018
+* Ph.D in School of Aeronautics and Astronautics Engineering, Purdue University, 2018 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 01/2020-Present: Research Assistant, Department of Aeronautics and Astronautics, Purdue University
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 01/2018-01/2020: Planning and Control Algorithms Engineer, Baidu Inc, P.R.China 
+
+* 09/2015-01/2018: Research Assistant, Department of Instrumentation and Optoelectronic, Beihang University, Beijing, P.R.China
 
 Publications
 ======
