@@ -8,6 +8,7 @@ redirect_from:
 ---
 {% include base_path %}
 [Download CV here](http://ChaoyingPei.github.io/files/CV.pdf)
+
 Education
 ======
 * B.S. in School of Instrumentation and Optoelectronic Engineering, Beihang University, 2011~2015
