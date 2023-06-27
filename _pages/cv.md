@@ -23,21 +23,15 @@ Work experience
 
 * 09/2015-01/2018: Research Assistant, Department of Instrumentation and Optoelectronic, Beihang University, Beijing, P.R.China
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
-Teaching
+
+Publications
 ======
-  <ul>{% for post in site.teaching %}
+  <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
