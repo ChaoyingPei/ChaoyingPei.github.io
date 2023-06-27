@@ -1,13 +1,10 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
 Hello there! I am a Ph.D. candidate in the Department of Aeronautics and Astronautics Engineering at Purdue University, currently in my fourth year of study. I hold a bachelor's and master's degree from Beihang University. Prior to joining Purdue, I gained valuable industry experience as an engineer at Baidu Inc, a high-technology company, where I focused on research and development in the field of autonomous driving.
 
 Researching the Skies and Beyond
