@@ -37,4 +37,9 @@ Publications
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+Paper Review: 
+2021-2023 American Control Conference (ACC)
+2021-2022 IEEE Conference on Decision and Control (CDC)
+Journal of Guidance, Control, and Dynamics
+IEEE Transactions on Aerospace and Electronic Systems
+
