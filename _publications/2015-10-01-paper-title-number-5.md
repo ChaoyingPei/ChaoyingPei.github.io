@@ -1,5 +1,5 @@
 ---
-title: "Research of a non-linearity control algorithm for UAV target tracking based on fuzzy logic systems"
+title: "Design of a fault detection and diagnose system for intelligent unmanned aerial vehicle navigation system"
 collection: publications
 permalink: /publication/2018-05-09-paper-title-number-5
 date: 2018-05-09
