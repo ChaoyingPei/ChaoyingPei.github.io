@@ -1,5 +1,4 @@
 ---
-<meta name="google-site-verification" content="yLNM0wfxyv90Y8U0dBbuPg253tf3GAUeqB3TdKF5LNI" />
 permalink: /
 author_profile: true
 redirect_from: 
