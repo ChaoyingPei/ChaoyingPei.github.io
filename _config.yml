@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chaoying Pei/ Assistant Professor"
+title                    : "Di Yu/ Ph.D. Candidate"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://ChaoyingPei.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://yudi12358.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ChaoyingPei/ChaoyingPei.github.io"
+repository               : "yudi12358/diyu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Chaoying Pei"
+  name             : "Di Yu"
   avatar           : "pic.jpeg"
   bio              : "Purdue University"
   location         : "West Lafayette, IN, 47907"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=avjebJEAAAAJ"
+  googlescholar    : "https://scholar.google.com.hk/citations?user=_I_1Vr8AAAAJ&hl=zh-CN&oi=ao"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
