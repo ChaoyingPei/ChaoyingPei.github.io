@@ -5,7 +5,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello! I am an Assistant Professor in the Department of Mechanical and Aerospace Engineering at the Missouri University of Science and Technology (Missouri S&T, [sites.mst.edu/chaoyingpei](https://sites.mst.edu/chaoyingpei/)). I received my Ph.D. in Aeronautics and Astronautics Engineering from Purdue University, advised by [Dr. Ran Dai](https://engineering.purdue.edu/AAE/people/ptProfile?resource_id=243160) in the [Automation and Optimization Laboratory](https://engineering.purdue.edu/AOL). Before that, I earned my bachelor’s and master’s degrees from Beihang University and worked as an engineer at Baidu Inc., focusing on autonomous driving technologies.
+Hello! I am a Ph.D. candidate in the Department of Statistics at Purdue University, advised by [Prof. Raghu Pasupathy](https://engineering.purdue.edu/IE/people/ptProfile?resource_id=243160). My research focuses on stochastic and nonconvex optimization, simulation, and learning over probability spaces. I develop Frank–Wolfe–based algorithms with theoretical guarantees and applications to experimental design, emergency response, and mean-field control. Before joining Purdue, I received my M.S. in Industrial and Systems Engineering from the Georgia Institute of Technology and dual B.S. degrees in Mathematics and Economics from Wuhan University.
 
 
 Researching the Skies and Beyond
