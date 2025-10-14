@@ -5,7 +5,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello there! I am a Ph.D. candidate in the [Department of Aeronautics and Astronautics Engineering at Purdue University](https://engineering.purdue.edu/AAE), currently in my fourth year of study. Under the guidance of my esteemed advisor, [Dr. Ran Dai](https://engineering.purdue.edu/AAE/people/ptProfile?resource_id=243160), I have the privilege of working in her lab, the [Automation and Optimization Laboratory](https://engineering.purdue.edu/AOL). Prior to joining Purdue, I gained valuable industry experience as an engineer at Baidu Inc, a high-technology company, where I focused on research and development in the field of autonomous driving. Before that, I obtained a bachelor's and master's degree from Beihang University.
+Hello! I am an Assistant Professor in the Department of Mechanical and Aerospace Engineering at the Missouri University of Science and Technology (Missouri S&T). I received my Ph.D. in Aeronautics and Astronautics Engineering from Purdue University, advised by [Dr. Ran Dai](https://engineering.purdue.edu/AAE/people/ptProfile?resource_id=243160) in the [Automation and Optimization Laboratory](https://engineering.purdue.edu/AOL). Before that, I earned my bachelor’s and master’s degrees from Beihang University and worked as an engineer at Baidu Inc., focusing on autonomous driving technologies.
 
 Researching the Skies and Beyond
 ======
